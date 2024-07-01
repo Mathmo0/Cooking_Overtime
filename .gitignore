@@ -1,0 +1,6 @@
+
+*.bin
+*.dll
+*.pdb
+/Projet_Ubisoft/ProceduralGen_M/ProceduralGen2D/Library/PackageCache
+/Projet_Ubisoft/ProceduralGen_M/ProceduralGen2D/Library
