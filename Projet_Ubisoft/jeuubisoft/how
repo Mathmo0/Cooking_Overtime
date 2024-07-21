@@ -1,0 +1,85 @@
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{0}: reset: moving to HEAD@{4}
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{1}: reset: moving to HEAD@{4}
+[33m1a6aaa6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to HEAD~1
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m4fcf877[m[33m ([m[1;36mHEAD -> [m[1;32mivan_corrections_v1[m[33m, [m[1;31morigin/ivan_corrections_v1[m[33m)[m HEAD@{6}: commit: add corrections texte and levels
+[33m1a6aaa6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from main to ivan_corrections_v1
+[33m1a6aaa6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: merge ivan_corrections_v1: Fast-forward
+[33mcc4ea7b[m[33m ([m[1;31morigin/LP-HpBarV2[m[33m, [m[1;32mLP-HpBarV2[m[33m)[m HEAD@{9}: checkout: moving from ivan_corrections_v1 to main
+[33m1a6aaa6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: checkout: moving from main to ivan_corrections_v1
+[33mcc4ea7b[m[33m ([m[1;31morigin/LP-HpBarV2[m[33m, [m[1;32mLP-HpBarV2[m[33m)[m HEAD@{11}: checkout: moving from ivan_corrections_v1 to main
+[33m1a6aaa6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{12}: commit: Tutoriel avec corrections
+[33mcfc2248[m HEAD@{13}: commit: correction sprite
+[33m7856f0c[m HEAD@{14}: commit: correction assets
+[33mc3758ea[m HEAD@{15}: commit: add tutorial
+[33mcc4ea7b[m[33m ([m[1;31morigin/LP-HpBarV2[m[33m, [m[1;32mLP-HpBarV2[m[33m)[m HEAD@{16}: checkout: moving from main to ivan_corrections_v1
+[33mcc4ea7b[m[33m ([m[1;31morigin/LP-HpBarV2[m[33m, [m[1;32mLP-HpBarV2[m[33m)[m HEAD@{17}: merge LP-HpBarV2: Fast-forward
+[33m3ba3304[m[33m ([m[1;31morigin/ivan_sound[m[33m, [m[1;32mivan_sound[m[33m)[m HEAD@{18}: checkout: moving from LP-HpBarV2 to main
+[33mcc4ea7b[m[33m ([m[1;31morigin/LP-HpBarV2[m[33m, [m[1;32mLP-HpBarV2[m[33m)[m HEAD@{19}: commit (merge): merge with hp update
+[33mb2edd25[m HEAD@{20}: checkout: moving from main to LP-HpBarV2
+[33m3ba3304[m[33m ([m[1;31morigin/ivan_sound[m[33m, [m[1;32mivan_sound[m[33m)[m HEAD@{21}: merge ivan_sound: Fast-forward
+[33m9e40a43[m HEAD@{22}: checkout: moving from ivan_sound to main
+[33m3ba3304[m[33m ([m[1;31morigin/ivan_sound[m[33m, [m[1;32mivan_sound[m[33m)[m HEAD@{23}: checkout: moving from main to ivan_sound
+[33m9e40a43[m HEAD@{24}: checkout: moving from ivan_sound to main
+[33m3ba3304[m[33m ([m[1;31morigin/ivan_sound[m[33m, [m[1;32mivan_sound[m[33m)[m HEAD@{25}: commit: Menus and sound ok
+[33m79ead86[m HEAD@{26}: checkout: moving from main to ivan_sound
+[33m9e40a43[m HEAD@{27}: checkout: moving from ivan_sound to main
+[33m79ead86[m HEAD@{28}: commit: correction bug bullet
+[33m9e40a43[m HEAD@{29}: checkout: moving from main to ivan_sound
+[33m9e40a43[m HEAD@{30}: commit: versionProtype243
+[33m33c64cf[m HEAD@{31}: commit: merge with ivan correction
+[33mc7a1323[m[33m ([m[1;31morigin/ivan_correction_bug[m[33m, [m[1;32mivan_correction_bug[m[33m)[m HEAD@{32}: merge ivan_correction_bug: Fast-forward
+[33m4fc0560[m[33m ([m[1;31morigin/menu_dev_Sarah[m[33m, [m[1;32mmenu_dev_Sarah[m[33m)[m HEAD@{33}: checkout: moving from ivan_correction_bug to main
+[33mc7a1323[m[33m ([m[1;31morigin/ivan_correction_bug[m[33m, [m[1;32mivan_correction_bug[m[33m)[m HEAD@{34}: commit: ajout de items
+[33mb1afeb2[m HEAD@{35}: commit: corrections de différents bugs
+[33m4fc0560[m[33m ([m[1;31morigin/menu_dev_Sarah[m[33m, [m[1;32mmenu_dev_Sarah[m[33m)[m HEAD@{36}: checkout: moving from main to ivan_correction_bug
+[33m4fc0560[m[33m ([m[1;31morigin/menu_dev_Sarah[m[33m, [m[1;32mmenu_dev_Sarah[m[33m)[m HEAD@{37}: reset: moving to HEAD
+[33m4fc0560[m[33m ([m[1;31morigin/menu_dev_Sarah[m[33m, [m[1;32mmenu_dev_Sarah[m[33m)[m HEAD@{38}: merge menu_dev_Sarah: Fast-forward
+[33m3a93885[m[33m ([m[1;31morigin/ivan_attackV2[m[33m, [m[1;32mivan_attackV2[m[33m)[m HEAD@{39}: checkout: moving from menu_dev_Sarah to main
+[33m4fc0560[m[33m ([m[1;31morigin/menu_dev_Sarah[m[33m, [m[1;32mmenu_dev_Sarah[m[33m)[m HEAD@{40}: commit (merge): add corrections to make the game work
+[33m3964753[m HEAD@{41}: commit (merge): merge with main
+[33m509a764[m HEAD@{42}: checkout: moving from main to menu_dev_Sarah
+[33m3a93885[m[33m ([m[1;31morigin/ivan_attackV2[m[33m, [m[1;32mivan_attackV2[m[33m)[m HEAD@{43}: merge ivan_attackV2: Fast-forward
+[33m187f075[m HEAD@{44}: checkout: moving from ivan_attackV2 to main
+[33m3a93885[m[33m ([m[1;31morigin/ivan_attackV2[m[33m, [m[1;32mivan_attackV2[m[33m)[m HEAD@{45}: commit: add animations
+[33mcd9ee5c[m HEAD@{46}: commit: add levels and edit them
+[33m82e2285[m HEAD@{47}: checkout: moving from MM_Procedural_V2 to ivan_attackV2
+[33m3da1544[m[33m ([m[1;32mMM_procedural_V2[m[33m)[m HEAD@{48}: checkout: moving from MM_Procedural_V2 to MM_Procedural_V2
+[33m3da1544[m[33m ([m[1;32mMM_procedural_V2[m[33m)[m HEAD@{49}: checkout: moving from ivan_attackV2 to MM_Procedural_V2
+[33m82e2285[m HEAD@{50}: checkout: moving from MM_Procedural_V2 to ivan_attackV2
+[33m3da1544[m[33m ([m[1;32mMM_procedural_V2[m[33m)[m HEAD@{51}: checkout: moving from ivan_attackV2 to MM_Procedural_V2
+[33m82e2285[m HEAD@{52}: commit: item and lights
+[33m3968ebb[m HEAD@{53}: commit: attack avec corrigé
+[33m187f075[m HEAD@{54}: checkout: moving from main to ivan_attackV2
+[33m187f075[m HEAD@{55}: commit: petite modif
+[33m6c8b3a5[m[33m ([m[1;31morigin/ivan_leaderboard[m[33m, [m[1;32mivan_leaderboard[m[33m)[m HEAD@{56}: merge ivan_leaderboard: Fast-forward
+[33mea84bcf[m HEAD@{57}: checkout: moving from ivan_leaderboard to main
+[33m6c8b3a5[m[33m ([m[1;31morigin/ivan_leaderboard[m[33m, [m[1;32mivan_leaderboard[m[33m)[m HEAD@{58}: commit: item done
+[33m8a722c7[m HEAD@{59}: commit: hp added
+[33mea84bcf[m HEAD@{60}: checkout: moving from LP-UI to ivan_leaderboard
+[33m484c017[m[33m ([m[1;32mLP-UI[m[33m)[m HEAD@{61}: reset: moving to HEAD~1
+[33m24e04e6[m HEAD@{62}: reset: moving to HEAD~1
+[33m56bf17d[m HEAD@{63}: reset: moving to HEAD~1
+[33mee27898[m HEAD@{64}: reset: moving to HEAD~1
+[33md07e9f9[m HEAD@{65}: checkout: moving from ivan_leaderboard to LP-UI
+[33mea84bcf[m HEAD@{66}: pull: Fast-forward
+[33m05ee597[m HEAD@{67}: reset: moving to HEAD~1
+[33mea84bcf[m HEAD@{68}: checkout: moving from LP-UI to ivan_leaderboard
+[33md07e9f9[m HEAD@{69}: reset: moving to HEAD
+[33md07e9f9[m HEAD@{70}: reset: moving to HEAD~1
+[33mc1b168e[m[33m ([m[1;31morigin/LP-UI[m[33m)[m HEAD@{71}: commit: test delete character
+[33md07e9f9[m HEAD@{72}: reset: moving to HEAD
+[33md07e9f9[m HEAD@{73}: reset: moving to HEAD
+[33md07e9f9[m HEAD@{74}: reset: moving to HEAD
+[33md07e9f9[m HEAD@{75}: commit: try again lp create
+[33mee27898[m HEAD@{76}: reset: moving to HEAD
+[33mee27898[m HEAD@{77}: commit: create new lp character
+[33m56bf17d[m HEAD@{78}: reset: moving to HEAD
+[33m56bf17d[m HEAD@{79}: commit: delete charcater
+[33m24e04e6[m HEAD@{80}: reset: moving to HEAD
+[33m24e04e6[m HEAD@{81}: commit: Ajustement for merge
+[33m484c017[m[33m ([m[1;32mLP-UI[m[33m)[m HEAD@{82}: reset: moving to HEAD
+[33m484c017[m[33m ([m[1;32mLP-UI[m[33m)[m HEAD@{83}: checkout: moving from main to LP-UI
+[33mea84bcf[m HEAD@{84}: merge ivan_leaderboard: Fast-forward
